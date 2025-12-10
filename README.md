@@ -1,4 +1,4 @@
-# QTM 350 - Data Science Computing
+# DATASCI 350 - Data Science Computing
 
 ## Quiz 05: Parallel Computing, Reproducibility, and Containers
 

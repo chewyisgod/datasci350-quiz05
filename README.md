@@ -9,6 +9,6 @@ any resources available to you, including the lecture notes and the internet.
 
 All the data required for this quiz can be found in the `data` folder within this repository. If you need to recreate the datasets, you can do so by running the Python script included in the `script-data-generation` folder. 
 
-The Jupyter notebook `quiz-05.ipynb` contains the questions you need to answer. If possible, please submit your answers as an `.html` file on Canvas.
+The Jupyter notebook `quiz-05.ipynb` contains the questions you need to answer. If possible, please submit your answers as an `.html` file on Canvas or a link to a GitHub repository containing your answers.
 
 Good luck! 😊
